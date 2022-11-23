@@ -13,7 +13,7 @@ node app.js
 
 ~~~~
 
-## Abrir navegador
+## Abrir el navegador
 
 ~~~~
 localhost:3000
